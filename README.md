@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CogniGraph AI — Technorazz 2026 Prototype
 
@@ -40,3 +41,7 @@ Your browser will open the CogniGraph AI prototype.
 
 ## Important
 This is a working MVP/demo prototype. The PPT describes LLM-based PDF parsing, NetworkX DAG validation, D3/Streamlit/React visualization and APIs. Those production integrations can be connected later; this version is designed for a fast live VS Code demonstration.
+=======
+# CogniGraph-AI
+AI-powered Smart Education Platform for Personalized Learning
+>>>>>>> 51b47b93dfe546d9bf85dc3c558ba4a67e98bbaf
